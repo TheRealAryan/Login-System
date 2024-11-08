@@ -4,6 +4,32 @@ A simple registration and login system as part of a larger future project. This 
 
 ---
 
+## Getting Started
+
+To get started with the **Registration-Login-System**:
+- Make sure you have **Python** installed:
+
+1. **Download or Clone the repository**: Download the ZIP from GitHub or using Git:
+
+   ```bash
+   git clone https://github.com/yourusername/Registration-Login-System.git
+   cd Registration-Login-System
+
+2. **Install dependencies**:
+   - Flask
+   - Flask-Login
+   - Werkzeug
+    ```bash
+    pip install -r requirements.txt
+
+4. Run **app.py** to start the server
+   ```bash
+   python app.py
+
+5. On your web browser, go to http://127.0.0.1:5000 (or whatever link the terminal displays)
+
+---
+
 ## Contents
 
 1. [Frontend (UI)](#frontend-ui)
