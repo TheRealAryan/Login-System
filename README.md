@@ -37,26 +37,30 @@ A simple registration and login system as part of a larger future project. This 
     - Password match validation.
     - Upon successful registration, redirects to the login page.
 
-![Registration Page](registration_page.png)
+![Registration Page](images/registration_page.png)
+![Registration Page 2](images/registration_page2.png)
+
 
 ### Login Page:
 - **Fields**: Email, Password.
 - **Validation**: Ensures correct login credentials.
 - Upon successful login, redirects to the user profile page.
 
-![Login Page](login_page.png)
+![Login Page](images/login_page.png)
+![Login Page 2](images/login_page2.png)
+
 
 ### Profile Page:
 - A basic profile page displaying the user's information after logging in.
 - This page acts as a placeholder for post login.
 
-![Profile Page](profile_page.png)
+![Profile Page](images/profile_page.png)
 
 ### Index Page:
 - This page acts as a placeholder for the homepage.
 - Links to the login or registration pages.
 
-![Home Page](home_page.png)
+![Home Page](images/homepage.png)
 
 ---
 
